@@ -1,0 +1,1 @@
+## WWCDC Front End Hack night first timer's guide
