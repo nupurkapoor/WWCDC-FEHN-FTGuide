@@ -64,5 +64,11 @@ For an introduction to Javascript, refer our [Intro to JS presentation](http://n
 
 *It’s Possible To Embed All Three Layers Within The Same Document, But Keeping Them Separate Gives Us One Valuable Advantage: We Can Modify Or Replace Any Of The Layers Without Having To Change The Others.*
 
+### How do I get started?
+
+### Okay, what next?
+
+### Resources?
+
 
 
