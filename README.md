@@ -25,7 +25,7 @@ Almost all the elements that you see, and interact with on any website is a mixt
   * [TextWrangler](http://www.barebones.com/products/textwrangler/) - MAC only
   * [Notepad++](http://notepad-plus-plus.org/)
   
-* Git and GitHub: Version control is a really important part of any professional developer's toolkit. It helps with saving your work, collaboration, and managing changes. You would need an account on Git installed on your computer, and an account on Github. For an introduction to Git and Github, refer our [Intro to Git presentation](http://nupurkapoor.github.io/intro-to-git/#/)
+* Git and GitHub: Version control is a really important part of any professional developer's toolkit. It helps with saving your work, collaboration, and managing changes. You would need Git installed on your computer, and an account on Github. For an introduction to Git and Github, refer our [Intro to Git presentation](http://nupurkapoor.github.io/intro-to-git/#/)
 
 * [JSFiddle](http://jsfiddle.net/): An online custom environment to test your HTML, CSS, and Javascript. You can save the fiddles you create and share fiddles with others. Refer [official docs](http://doc.jsfiddle.net/tutorial.html).
 
