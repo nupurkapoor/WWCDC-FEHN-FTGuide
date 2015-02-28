@@ -55,10 +55,11 @@ A CSS file's extension is **.css**
 	
 
 #### Javascript (JS)
-JavaScript is the third and final pillar of modern web development (the other two being HTML and CSS). JavaScript is the most advanced language of all three which enables us to interact with users in form of sliders, drop-down menus, quizzes, and many more interactive elements where sky is the limit. It’s what makes modern web the interactive, animated, vibrant place that it is. When a user requests an HTML page with JavaScript in it, the script is sent to the browser and it's up to the browser to do the "magic" with it. JavaScript is *NOT* the same as Java. Their names may be similar, purely for marketing reasons, but they are two completely different programming languages. An JS file's extension is **.js**
+JavaScript is the third and final pillar of modern web development (the other two being HTML and CSS). JavaScript is the most advanced language of all three which enables us to interact with users in form of sliders, drop-down menus, quizzes, and many more interactive elements where sky is the limit. It’s what makes modern web the interactive, animated, vibrant place that it is. When a user requests an HTML page with JavaScript in it, the script is sent to the browser and it's up to the browser to do the "magic" with it. JavaScript is *NOT* the same as Java. Their names may be similar, purely for marketing reasons, but they are two completely different programming languages.   
+An JS file's extension is **.js**
 
 The `behavior layer` involves real-time user interaction with the document. This is usually handled by Javacript. The interaction can be anything from a trivial validation that ensures a required field is filled in before an email subscription form can be submitted, to sophisticated web applications that work much like ordinary desktop programs.
-
+  
 For an introduction to Javascript, refer our [Intro to JS presentation](http://nupurkapoor.github.io/js-study-group/).
 
 *It’s Possible To Embed All Three Layers Within The Same Document, But Keeping Them Separate Gives Us One Valuable Advantage: We Can Modify Or Replace Any Of The Layers Without Having To Change The Others.*
