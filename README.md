@@ -53,6 +53,8 @@ A CSS file's extension is **.css**
 	
 
 #### 3. Javascript (JS)
+> JavaScript is a programming language that helps make a web page interactive. When you view a slideshow or get annoying pop-up ads, that’s JavaScript. If you see your Facebook Timeline update or Google autocomplete a search term, that’s JavaScript. -[Skillcrush]
+
 JavaScript is the third and final pillar of modern web development (the other two being HTML and CSS). JavaScript is the most advanced language of all three which enables us to interact with users in form of sliders, drop-down menus, quizzes, and many more interactive elements where sky is the limit. It’s what makes modern web the interactive, animated, vibrant place that it is. When a user requests an HTML page with JavaScript in it, the script is sent to the browser and it's up to the browser to do the "magic" with it. JavaScript is *NOT* the same as Java. Their names may be similar, purely for marketing reasons, but they are two completely different programming languages.   
 An JS file's extension is **.js**
 
