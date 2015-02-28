@@ -70,5 +70,7 @@ For an introduction to Javascript, refer our [Intro to JS presentation](http://n
 
 ### Resources?
 
+##### Keep in touch!
+
 
 
