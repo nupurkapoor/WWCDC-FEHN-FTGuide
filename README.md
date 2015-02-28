@@ -45,10 +45,10 @@ CSS is the place where we bring all the colors, backgrounds, font sizes, layouts
 	
 
 #### Javascript (JS)
-JavaScript is the third and final pillar of modern web development, the other two being HTML and CSS. It’s what makes the modern Web the interactive, animated, vibrant place that it is. JavaScript is the most advanced language of all three which enables us to interact with user in form of sliders, drop-down menus, quizzes, and many more interactive elements where sky is the limit. When a user requests an HTML page with JavaScript in it, the script is sent to the browser and it's up to the browser to do the "magic" with it. JavaScript is *NOT* the same as Java. Their names may be similar, purely for marketing reasons, but they are two completely different programming languages. An JS file's extension is **.js**
+JavaScript is the third and final pillar of modern web development (the other two being HTML and CSS). JavaScript is the most advanced language of all three which enables us to interact with users in form of sliders, drop-down menus, quizzes, and many more interactive elements where sky is the limit. It’s what makes modern web the interactive, animated, vibrant place that it is. When a user requests an HTML page with JavaScript in it, the script is sent to the browser and it's up to the browser to do the "magic" with it. JavaScript is *NOT* the same as Java. Their names may be similar, purely for marketing reasons, but they are two completely different programming languages. An JS file's extension is **.js**
 
 
-For an introduction Javascript, refer our [Intro to JS presentation](http://nupurkapoor.github.io/js-study-group/)
+For an introduction to Javascript, refer our [Intro to JS presentation](http://nupurkapoor.github.io/js-study-group/)
 
 #### Javascript Libraries
 
