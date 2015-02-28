@@ -35,7 +35,7 @@ Almost all the elements that you see, and interact with on any website is a mixt
 
 There are many technologies and programming languages that contribute to the web, we'll discuss what lies within the group's focus. The web comprises of three layers— *content, presentation, and behavior*
 
-![web-layers](http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2014/09/1409729756css_three-layers.png))
+![web-layers](http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2014/09/1409729756css_three-layers.png)
 
 #### HTML (Hyper Text Markup Language) 
 HTML is an example of a widely known and used markup language. It is responsible for creating a markup of your website's content, letting the browser read it and display it correctly. Markup is the structure of the page, layout of your content, it is the foundation of websites, vital for search engine optimization(SEO). A markup language specifies code for formatting, both the layout, and style, within a text file. The code used to specify the formatting are called tags. 
