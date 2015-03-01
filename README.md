@@ -64,8 +64,9 @@ For an introduction to Javascript, refer our [Intro to JS presentation](http://n
 *It’s Possible To Embed All Three Layers Within The Same Document, But Keeping Them Separate Gives Us One Valuable Advantage: We Can Modify Or Replace Any Of The Layers Without Having To Change The Others.*
 
 ### How do I get started?
-Believe it or not, it by **Building Your First Web Page!!**
-Awesome, congrats on taking the first step to learning how to code. 
+
+Awesome, congrats on taking the first step to learning how to code, now how should we get started? Believe it or not, its by **Building Your First Web Page!!**
+
 
 HTML and CSS are independent of one another and should remain that way. CSS should not be written inside of an HTML document and vice versa. As a rule, HTML will always be the `content layer`, and CSS will always be the `presentation layer`. Now that you understand the importance of each, lets get started!
 
@@ -105,17 +106,20 @@ Lets create your first HTML page.
 
 2. In the hello.html file, add the document structure, the `<!DOCTYPE html>` document type, and the `<html>`, `<head>`, and `<body>` elements.
 
-	`<!DOCTYPE html>
+	```
+	<!DOCTYPE html>
 	<html lang="en">
 	  <head>
 	  </head>
 	  <body>
 	  </body>
-	</html>`
+	</html>
+	```
 
 3. Inside the `<head>` element, let’s add `<meta>` and `<title>` element. Here meta elelemnt defines the data (information) about data better called as the metadata of the page. Metadata will not be displayed on the page, but will be machine or browser readable. In this particular case we'll use to define the specify the character encoding for the HTML document. As the name suggests title tag will define the title of the page.  
 
-	`<!DOCTYPE html>
+	```
+	<!DOCTYPE html>
 	<html lang="en">
 	  <head>
        <meta charset="utf-8">
@@ -123,11 +127,13 @@ Lets create your first HTML page.
       </head>
 	  <body>
 	  </body>
-	</html>`
+	</html>
+	```
 	
 4. Inside the `<body>` element, let’s add `<h1>` and `<h1>` elements. The `<h1>` element should include the heading we wish to include and the `<p>` element should include a simple paragraph.
 
-	`<!DOCTYPE html>
+	```
+	<!DOCTYPE html>
 	<html lang="en">
 	  <head>
        <meta charset="utf-8">
@@ -135,16 +141,17 @@ Lets create your first HTML page.
       </head>
 	  <body>
 	   <h1> Hello World!! </h1>
-	   <p> This isn't a simple page, it has a heading and a paragraph. </p>
+	   <p> This isn't just any page, this is my begining. </p>
 	  </body>
-	</html>`
+	</html>
+	```
 
 5. Now its time to open this page in a browser! Locate your hello.html file, double clicking the file or uisng the open-with option into a web browser will open it for us to review. This is how it looks in the text editor I am using,
 
 	
 ![HTML-2](https://raw.githubusercontent.com/nupurkapoor/WWCDC-FEHN-FTGuide/master/assets/images/HTML-2.png)
 
-Ansd this is how it looked when i accessed the page in Chrome:
+And this is how it looked when i accessed the page in Chrome:
 
 ![HTML-3](https://raw.githubusercontent.com/nupurkapoor/WWCDC-FEHN-FTGuide/master/assets/images/HTML-3.png)
 
@@ -153,7 +160,15 @@ Voila! You just created you first HTML page. Congratulation. Now lets take a loo
 
 ##### Common CSS Terms
 
+###### Selectors
 
+###### Properties
+
+###### Values
+
+##### Referencing CSS from within a HTML page
+
+##### In Practice - styling Hello HTML!
 
 
 
