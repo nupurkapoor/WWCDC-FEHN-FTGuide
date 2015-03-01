@@ -162,15 +162,126 @@ Voila! You just created you first HTML page. Congratulation. Now lets take a loo
 
 ###### Selectors
 
-###### Properties
+`Selectors` are one of the most vital aspects of CSS as they are used to "select" elements on an HTML page, so that they can be styled. Selectors can be a combination of different qualifiers to select unique elements or a single qualifier to select multiple elements.
 
-###### Values
+Before we start looking into different types of selectors, a quick intro to the syntax of a CSS file. CSS syntax is different from the HTML, but its really simple to pick up! The general format looks like this: 
+
+```
+selector {
+    property: value;
+}
+
+```
+So for example, if we wish to change the `color` property of a paragraph tag to blue, this is how we would do it:
+
+```
+p {
+	color: blue;
+}
+```
+
+Now the above code would change color to blue for ALL the paragraph tags on that page, for granuality we use other attributes as well, to be able target specific elements.
+
+```
+p#container {
+	color: blue;
+}
+
+p.error {
+	color: red;
+}
+
+```
+
+In above code, every `<p>` tag with an `id` attribute of container will be colored blue, and every `class` attribute of error will be red. As you can see, `id` attribute is selected using `#` hash/pound symbol, and `class` attribute is selected using `.` the dot or period symbol.
+
+**Common Selectors:**
+
+1. `*` - Universal selector. The star symbol will target every single element on the page. It literally means 'ALL'. Be very careful while using this seletor as it would apply the style on every single element of your web page.
+2. `#id` - Id Selectors. To select an element by its `id` attribute. 
+3. `.class` - Class selectors. To select an element by its `class` attribute. 
+4. `h1`, `p`, `body`, `div`  - Type selectors. To select an element by its tag-type.
+5. `div.article table` - Descendant Selectors. When you want to apply a style rule to a particular element only when it lies inside a particular element, in this case the CSS rule would only be applied if a `table` is inside a `div` with `class` attribute of 'article' 
+
 
 ##### Referencing CSS from within a HTML page
 
+For our CSS and HTML files to talk to each other we need to reference our CSS file within our HTML. The best practice is to include all of our styles in a single external style sheet, which is referenced from within the `<head>` element of our HTML document, like so:
+
+```
+<head>
+  <link rel="stylesheet" href="main.css">
+</head>
+```
+
 ##### In Practice - styling Hello HTML!
 
+1. Create a new file with the extension `.css`, lets call it `main.css`. Save this file in the same folder as your `hello.html`.
+2. Using our text editor, lets add some color and font to the `<h1>` tag, and some font to the `<p>` tag
 
+```
+h1 {
+	font-family: Arial;
+	color: blue;
+}
+
+p {
+	font-family: Arial;
+}
+
+```
+
+Now, the Gurus of programming have wisely adviced us to always be DRY. Donot Repeat Yourself. But we are! Both of our elements hvae the exact same font! Now there are two ways to resolve this, 
+
+* If the file is as simple as ours, with nothing else but just a `<h1>` and a `<p>` tag, we can really just apply the `font-family` to the `<body>` tag of the page, so it shall then affect everything within the body tag.
+
+```
+body {
+	font-family: Arial;
+}
+
+h1 {
+	color: blue;
+}
+```
+
+* But, if there were other elements too, and we only wanted t target the `<h1>` and the `<p>` tag, we can apply ustyles using `,` as a separator!
+
+```
+h1, p {
+	font-family: Arial;
+}
+
+h1 {
+	color: blue;
+}
+
+```
+
+![MAIN-css-1](https://raw.githubusercontent.com/nupurkapoor/WWCDC-FEHN-FTGuide/master/assets/images/MAIN-css-1.png)
+
+Now we need to reference this css file from within our html file:
+
+```
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+     <meta charset="utf-8">
+     <title>My first html page</title>
+     <link rel="stylesheet" href="main.css">
+    </head>
+  <body>
+   <h1> Hello World!! </h1>
+   <p> This isn't just any page, this is my begining. </p>
+  </body>
+</html>
+```
+
+Let's access the HTML file in browser, to see the styling in action.
+
+![HTML-4](https://raw.githubusercontent.com/nupurkapoor/WWCDC-FEHN-FTGuide/master/assets/images/HTML-4.png)
+
+Yayyyyy!!!
 
 ### Okay, what next?
 
