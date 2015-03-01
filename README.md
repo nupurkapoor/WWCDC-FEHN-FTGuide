@@ -296,10 +296,11 @@ The only logical next step is to NOT STOP! Refer our resources section, and cont
 * We use [Slack](https://slack.com/) as our internal chat system! To understand Slack better refer the [Slack guide](https://github.com/womenwhocodedc/organization/blob/master/slack_guide.md). 
 
 ##### Keep in touch!
-* Meet with us via [Meetup](http://www.meetup.com/Women-Who-Code-DC/)
-* [Tweet](https://twitter.com/WomenWhoCodeDC) us
+* Meet with us via [Meetup](http://www.meetup.com/Women-Who-Code-DC/).
+* [Tweet](https://twitter.com/WomenWhoCodeDC) us.
 * Email us - WWCodeDC@gmail.com
-* Check us out on [Github](https://github.com/womenwhocodedc)
+* Check us out on [Github](https://github.com/womenwhocodedc).
+* Check our [website](http://womenwhocodedc.github.io/).
 
 
 
