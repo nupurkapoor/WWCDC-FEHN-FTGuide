@@ -103,15 +103,58 @@ Lets create your first HTML page.
 
 1. Open our text editor, create a new file named hello.html, and save it to a location you won't forget.
 
-2. In the hello.html file, add the document structure, including the <!DOCTYPE html> document type, and the <html>, <head>, and <body> elements.
+2. In the hello.html file, add the document structure, the `<!DOCTYPE html>` document type, and the `<html>`, `<head>`, and `<body>` elements.
 
-`<!DOCTYPE html>
-<html lang="en">
-  <head>
-  </head>
-  <body>
-  </body>
-</html>`
+	`<!DOCTYPE html>
+	<html lang="en">
+	  <head>
+	  </head>
+	  <body>
+	  </body>
+	</html>`
+
+3. Inside the `<head>` element, let’s add `<meta>` and `<title>` element. Here meta elelemnt defines the data (information) about data better called as the metadata of the page. Metadata will not be displayed on the page, but will be machine or browser readable. In this particular case we'll use to define the specify the character encoding for the HTML document. As the name suggests title tag will define the title of the page.  
+
+	`<!DOCTYPE html>
+	<html lang="en">
+	  <head>
+       <meta charset="utf-8">
+       <title>My first html page</title>
+      </head>
+	  <body>
+	  </body>
+	</html>`
+	
+4. Inside the `<body>` element, let’s add `<h1>` and `<h1>` elements. The `<h1>` element should include the heading we wish to include and the `<p>` element should include a simple paragraph.
+
+	`<!DOCTYPE html>
+	<html lang="en">
+	  <head>
+       <meta charset="utf-8">
+       <title>My first html page</title>
+      </head>
+	  <body>
+	   <h1> Hello World!! </h1>
+	   <p> This isn't a simple page, it has a heading and a paragraph. </p>
+	  </body>
+	</html>`
+
+5. Now its time to open this page in a browser! Locate your hello.html file, double clicking the file or uisng the open-with option into a web browser will open it for us to review. This is how it looks in the text editor I am using,
+
+	
+![HTML-2](https://raw.githubusercontent.com/nupurkapoor/WWCDC-FEHN-FTGuide/master/assets/images/HTML-2.png)
+
+Ansd this is how it looked when i accessed the page in Chrome:
+
+![HTML-3](https://raw.githubusercontent.com/nupurkapoor/WWCDC-FEHN-FTGuide/master/assets/images/HTML-3.png)
+
+Voila! You just created you first HTML page. Congratulation. Now lets take a look at CSS. 
+
+
+##### Common CSS Terms
+
+
+
 
 
 ### Okay, what next?
