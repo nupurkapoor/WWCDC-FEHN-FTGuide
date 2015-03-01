@@ -285,9 +285,21 @@ Yayyyyy!!!
 
 ### Okay, what next?
 
+The only logical next step is to NOT STOP! Refer our resources section, and continue your journey. All te best, and Congratulations!
+
 ### Resources?
 
+* [Front End hack night resource list](https://github.com/womenwhocodedc/organization/tree/master/learning-resources/front-end-hack-nights)
+* [Git Guide.](https://github.com/womenwhocodedc/organization/blob/master/learning-resources/git_guide.md)
+* [Intro to JS](http://nupurkapoor.github.io/js-study-group/#/)
+* [Intro to Git nad Github](http://nupurkapoor.github.io/intro-to-git/#/)
+* We use [Slack](https://slack.com/) as our internal chat system! To understand Slack better refer the [Slack guide](https://github.com/womenwhocodedc/organization/blob/master/slack_guide.md). 
+
 ##### Keep in touch!
+* Meet with us via [Meetup](http://www.meetup.com/Women-Who-Code-DC/)
+* [Tweet](https://twitter.com/WomenWhoCodeDC) us
+* Email us - WWCodeDC@gmail.com
+* Check us out on [Github](https://github.com/womenwhocodedc)
 
 
 
