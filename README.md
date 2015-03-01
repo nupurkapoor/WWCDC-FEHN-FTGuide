@@ -285,7 +285,7 @@ Yayyyyy!!!
 
 ### Okay, what next?
 
-The only logical next step is to NOT STOP! Refer our resources section, and continue your journey. All te best, and Congratulations!
+The only logical next step is to NOT STOP! Refer our resources section, and continue your journey. All the best, and Congratulations!
 
 ### Resources?
 
