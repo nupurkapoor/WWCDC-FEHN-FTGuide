@@ -146,12 +146,12 @@ Lets create your first HTML page.
 	</html>
 	```
 
-5. Now its time to open this page in a browser! Locate your hello.html file, double clicking the file or uisng the open-with option into a web browser will open it for us to review. This is how it looks in the text editor I am using,
+5. Now its time to open this page in a browser! Locate your hello.html file, double clicking the file or uisng the open-with option into a web browser will open it for us to review. This is how it looks in the text editor that I am using,
 
 	
 ![HTML-2](https://raw.githubusercontent.com/nupurkapoor/WWCDC-FEHN-FTGuide/master/assets/images/HTML-2.png)
 
-And this is how it looked when i accessed the page in Chrome:
+And this is how it looked when I accessed the page in Chrome:
 
 ![HTML-3](https://raw.githubusercontent.com/nupurkapoor/WWCDC-FEHN-FTGuide/master/assets/images/HTML-3.png)
 
