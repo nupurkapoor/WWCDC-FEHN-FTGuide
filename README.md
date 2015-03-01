@@ -97,6 +97,23 @@ Attributes are defined within the opening tag, after an element’s name. Genera
 
 ![HTML-1](https://raw.githubusercontent.com/nupurkapoor/WWCDC-FEHN-FTGuide/master/assets/images/HTML-1.png)
 
+##### In Practice - Hello HTML!
+
+Lets create your first HTML page. 
+
+1. Open our text editor, create a new file named hello.html, and save it to a location you won't forget.
+
+2. In the hello.html file, add the document structure, including the <!DOCTYPE html> document type, and the <html>, <head>, and <body> elements.
+
+`<!DOCTYPE html>
+<html lang="en">
+  <head>
+  </head>
+  <body>
+  </body>
+</html>`
+
+
 ### Okay, what next?
 
 ### Resources?
