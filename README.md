@@ -292,7 +292,7 @@ The only logical next step is to NOT STOP! Refer our resources section, and cont
 * [Front End hack night resource list](https://github.com/womenwhocodedc/organization/tree/master/learning-resources/front-end-hack-nights)
 * [Git Guide.](https://github.com/womenwhocodedc/organization/blob/master/learning-resources/git_guide.md)
 * [Intro to JS](http://nupurkapoor.github.io/js-study-group/#/)
-* [Intro to Git nad Github](http://nupurkapoor.github.io/intro-to-git/#/)
+* [Intro to Git and Github](http://nupurkapoor.github.io/intro-to-git/#/)
 * We use [Slack](https://slack.com/) as our internal chat system! To understand Slack better refer the [Slack guide](https://github.com/womenwhocodedc/organization/blob/master/slack_guide.md). 
 
 ##### Keep in touch!
