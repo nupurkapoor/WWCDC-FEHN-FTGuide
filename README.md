@@ -197,7 +197,7 @@ In above code, every `<p>` tag with an `id` attribute of container will be color
 
 **Common Selectors:**
 
-1. `*` - Universal selector. The star symbol will target every single element on the page. It literally means 'ALL'. Be very careful while using this seletor as it would apply the style on every single element of your web page.
+1. `*` - Universal selector. The star symbol will target every single element on the page. It literally means 'ALL'. Be very careful while using this selector as it would apply the style on every single element of your web page.
 2. `#id` - Id Selectors. To select an element by its `id` attribute. 
 3. `.class` - Class selectors. To select an element by its `class` attribute. 
 4. `h1`, `p`, `body`, `div`  - Type selectors. To select an element by its tag-type.
@@ -231,7 +231,7 @@ p {
 
 ```
 
-Now, the Gurus of programming have wisely adviced us to always be DRY. Donot Repeat Yourself. But we are! Both of our elements hvae the exact same font! Now there are two ways to resolve this, 
+Now, the Gurus of programming have wisely adviced us to always be DRY. Donot Repeat Yourself. But we are! Both of our elements have the exact same font! Now there are two ways to resolve this, 
 
 * If the file is as simple as ours, with nothing else but just a `<h1>` and a `<p>` tag, we can really just apply the `font-family` to the `<body>` tag of the page, so it shall then affect everything within the body tag.
 
@@ -245,7 +245,7 @@ h1 {
 }
 ```
 
-* But, if there were other elements too, and we only wanted t target the `<h1>` and the `<p>` tag, we can apply ustyles using `,` as a separator!
+* But, if there were other elements too, and we only wanted to target the `<h1>` and the `<p>` tag, we can apply styles to both using `,` as a separator!
 
 ```
 h1, p {
