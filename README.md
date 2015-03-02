@@ -301,6 +301,7 @@ The only logical next step is to NOT STOP! Refer our resources section, and cont
 * Email us - WWCodeDC@gmail.com
 * Check us out on [Github](https://github.com/womenwhocodedc).
 * Check our [website](http://womenwhocodedc.github.io/).
+* Join our [Slack](bitly.com/WWCDCslack) group.
 
 
 
