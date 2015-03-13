@@ -4,7 +4,7 @@
 
 When someone says “frontend” of the web, what they really mean is the part of the website or web application that a person can visually see and interact with. As the name states “Front-End” is the part of the code that is on the front of the application. The main purpose of the front-end code is to interact with user, as well as present the data in a well-defined style, and structure. It usually consists of two parts: 
 
-* the design - aesthetics of the website or application, understanding element arrangements on the screen, the color and font choices
+* design - aesthetics of the website or application, understanding element arrangements on the screen, the color and font choices
 
 * front end web development or client-side development- development of those elements of a website that the user sees and interacts with directly. This piece involves programming skills, comprising mainly of **HTML**, **CSS**, and **Javascript** but certainly not limited to them.
 
@@ -21,9 +21,9 @@ Almost all the elements that you see, and interact with on any website is a mixt
 * Laptop/PC: Front end development is not restricted by the machine you are using, you can start coding on PCs, Macs, or Linux machines. 
 
 * Text Editor: we donot and should not code in regular word processors, you would need user-friendly text editors that does syntax highlighting. These are some that we recommend:
-  * [Sublime Text](http://www.sublimetext.com/)
+  * [Sublime Text](http://www.sublimetext.com/) - MAC & Windows
   * [TextWrangler](http://www.barebones.com/products/textwrangler/) - MAC only
-  * [Notepad++](http://notepad-plus-plus.org/)
+  * [Notepad++](http://notepad-plus-plus.org/) - MAC & Windows
   
 * Git and GitHub: Version control is a really important part of any professional developer's toolkit. It helps with backing up your work, collaboration, and managing changes through iterative versions. You would need Git installed on your computer, and an account on [Github](https://github.com). For an introduction to Git and Github, refer our [Intro to Git presentation](http://nupurkapoor.github.io/intro-to-git/#/)
 
@@ -68,7 +68,7 @@ For an introduction to Javascript, refer our [Intro to JS presentation](http://n
 Awesome, congrats on taking the first step to learning how to code, now how should we get started? Believe it or not, its by **Building Your First Web Page!!**
 
 
-HTML and CSS are independent of one another and should remain that way. CSS should not be written inside of an HTML document and vice versa. As a rule, HTML will always be the `content layer`, and CSS will always be the `presentation layer`. Now that you understand the importance of each, lets get started!
+HTML and CSS are independent of one another and should remain that way. CSS should not be written inside of a HTML document and vice versa. As a rule, HTML will always be the `content layer`, and CSS will always be the `presentation layer`. Now that you understand the importance of each, lets get started!
 
 ##### Common HTML Terms
 
@@ -102,7 +102,7 @@ Attributes are defined within the opening tag, after an element’s name. Genera
 
 Lets create your first HTML page. 
 
-1. Open our text editor, create a new file named hello.html, and save it to a location you won't forget.
+1. Open your text editor, at this point it really doesn't matter what text edtor you chose. Create a new file named hello.html, and save it to a location you won't forget.
 
 2. In the hello.html file, add the document structure, the `<!DOCTYPE html>` document type, and the `<html>`, `<head>`, and `<body>` elements.
 
@@ -277,15 +277,17 @@ Now we need to reference this css file from within our html file:
 </html>
 ```
 
-Let's access the HTML file in browser, to see the styling in action.
+Let's access the HTML file in browser, to see the styling in action. 
+Yayyyyy!!!
 
 ![HTML-4](https://raw.githubusercontent.com/nupurkapoor/WWCDC-FEHN-FTGuide/master/assets/images/HTML-4.png)
-
-Yayyyyy!!!
 
 ### Okay, what next?
 
 The only logical next step is to NOT STOP! Refer our resources section, and continue your journey. All the best, and Congratulations!
+
+Remember, even though we did access your page via browser, its really not up on the internet! For that you would need to 
+[host](http://en.wikipedia.org/wiki/Web_hosting_service) your page online. That's an advanced topic which shouldn't worry about right now!
 
 ### Resources?
 
@@ -294,6 +296,11 @@ The only logical next step is to NOT STOP! Refer our resources section, and cont
 * [Intro to JS](http://nupurkapoor.github.io/js-study-group/#/)
 * [Intro to Git and Github](http://nupurkapoor.github.io/intro-to-git/#/)
 * We use [Slack](https://slack.com/) as our internal chat system! To understand Slack better refer the [Slack guide](https://github.com/womenwhocodedc/organization/blob/master/slack_guide.md). 
+
+#### What to follow?
+* [Dash](https://dash.generalassemb.ly/)
+* [Khan Academy - HTML + CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
+* [Khan Academy - HTML + CSS + JS](https://www.khanacademy.org/computing/computer-programming/html-css-js)
 
 ##### Keep in touch!
 * Meet with us via [Meetup](http://www.meetup.com/Women-Who-Code-DC/).
