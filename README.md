@@ -1,5 +1,7 @@
 ## WWCDC Front End Hack night first timer's guide
 
+Created for the purposes of Women Who Code DC.
+
 ### What is Front End?
 
 When someone says “frontend” of the web, what they really mean is the part of the website or web application that a person can visually see and interact with. As the name states “Front-End” is the part of the code that is on the front of the application. The main purpose of the front-end code is to interact with user, as well as present the data in a well-defined style, and structure. It usually consists of two parts: 
